@@ -1,0 +1,4 @@
+br\ufes\log\LogAdapter.class
+br\ufes\log\LogWriter.class
+br\ufes\log\JsonLogWriter.class
+br\ufes\log\CsvLogWriter.class
