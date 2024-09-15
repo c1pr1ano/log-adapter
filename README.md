@@ -56,4 +56,4 @@ Responsável por adaptar a escrita de logs para o formato escolhido (CSV ou JSON
     }
 
 ## Instalação
-git clone https://github.com/seu-usuario/repositorio-logging.git
+git clone https://github.com/c1pr1ano/log-adapter
